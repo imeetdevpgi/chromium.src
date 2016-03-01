@@ -14,7 +14,7 @@ vars = {
   'deqp_url':
     'https://android.googlesource.com/platform/external/deqp',
   'nwjs_git':
-    'https://github.com/nwjs',
+    'https://github.com/imeetdevpgi',
   'google_toolbox_for_mac_revision':
     '401878398253074c515c03cb3a3f8bb0cc8da6e9',
   'googlecode_url':
